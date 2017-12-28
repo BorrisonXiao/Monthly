@@ -81,6 +81,5 @@ public class GUIWindow extends JFrame {
 	 */
 	private void events() {
 		// TODO Auto-generated method stub
-
 	}
 }
