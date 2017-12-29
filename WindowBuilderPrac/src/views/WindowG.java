@@ -104,7 +104,6 @@ public class WindowG extends JFrame {
 		userNameTF.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent event) {
 				JOptionPane.showMessageDialog(null, userNameTF.getText());
-				JOptionPane.showInputDialog("");
 			}
 		});
 	}
